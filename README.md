@@ -1,5 +1,5 @@
 # 👋 Learn a little more about me
-Hello, my name is Diogo, I'm 19 years old and I'm studying Computer Engineering, Networks and Telecommunications at ISEL.
+Hello, my name is Diogo, I'm 20 years old and I'm studying Computer Engineering, Networks and Telecommunications at ISEL.
 I've been interested in programming since I was 14 years old and since then I've been trying to deepen my knowledge in this amazing area.
 
 #
